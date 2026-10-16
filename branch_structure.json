@@ -1,0 +1,21 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "fix/issue-980-w10-f-004-auth-cross-page-navigation-uses-404",
+    "origin",
+    "security/issue-1028-w10-fx-004-icon-only-back-arrowleft-links-lack"
+  ],
+  "parent": {
+    "dev": null,
+    "fix/issue-980-w10-f-004-auth-cross-page-navigation-uses-404": "dev",
+    "origin": "dev",
+    "security/issue-1028-w10-fx-004-icon-only-back-arrowleft-links-lack": "dev"
+  },
+  "order": [
+    "dev",
+    "fix/issue-980-w10-f-004-auth-cross-page-navigation-uses-404",
+    "origin",
+    "security/issue-1028-w10-fx-004-icon-only-back-arrowleft-links-lack"
+  ]
+}
